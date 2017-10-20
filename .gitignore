@@ -1,0 +1,10 @@
+# ignoruj pliki wykrywalne
+
+
+
+
+*.o
+
+
+
+
